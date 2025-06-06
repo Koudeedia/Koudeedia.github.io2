@@ -17,8 +17,8 @@ if(isset($_GET['del'])){
     <link rel="stylesheet" href="paniercss.css">
 </head>
 <body class="panier">
-    <a href="PremierProjetInfoHtml.html" class="link">Retour à la boutique</a>
-    <a href="index.php" class="link">Tous les articles</a>
+    <a href="index.html" class="link">Retour à la boutique</a>
+    <a href="indexx.php" class="link">Tous les articles</a>
     <a href="ma_wishlist.php" class="link">Ma wishlist</a>
 
     <section>
